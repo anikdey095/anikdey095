@@ -81,7 +81,7 @@ Git | GitHub | Netlify | Vercel | Apache | LaTeX
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=anikdey095&theme=tokyonight&hide_border=true)
+![]([https://github-readme-stats.vercel.app/api?username=anikdey095&theme=tokyonight&hide_border=true](https://github.com/anikdey095/blood-donation-system-master))
 ![](https://nirzak-streak-stats.vercel.app/?user=anikdey095&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anikdey095&theme=tokyonight&hide_border=true&layout=compact)
 
