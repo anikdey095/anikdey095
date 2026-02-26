@@ -1,6 +1,10 @@
 # 💫 About Me:
 Computer Science student passionate about AI, Machine Learning, and Deep Learning.<br>I enjoy solving complex problems, building intelligent systems, and pushing my limits through competitive programming.<br><br>Currently focused on mastering Data Structures & Algorithms and exploring real-world AI applications.<br>Driven by curiosity, consistency, and the goal of becoming a specialist-level problem solver.
-
+- 🔭 Currently working on: AI & Deep Learning Projects  
+- 🌱 Learning: Advanced DSA & Neural Networks  
+- 👯 Looking to collaborate on: AI/ML Research Projects  
+- 💬 Ask me about: C++, Python, DSA, AI Basics  
+- ⚡ Fun fact: I love solving complex problems under pressure!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KDDqUTyZ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anik dey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anik Dey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@231Dey23536) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anikd1452@gmail.com) 
